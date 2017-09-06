@@ -1,18 +1,20 @@
 # README
 
+* icon: 引用其他作者的圖示
 * flyer: A3 輸出使用 2~4K 解析度會較好。
 * poster: 800(W)*1000(H) 使用輸出: 8192(width)
-* icon: 引用其他作者的圖示
+* screw-machine: 自動鎖螺絲機影片設計的圖檔。 
 
 
 ### Youtube Channl
-    * [Alvis/Mapacode](https://www.youtube.com/channel/UC5wF4at9z3QNLTSjuB8-JtA/featured?disable_polymer=true)
+
+* [Alvis/Mapacode](https://www.youtube.com/channel/UC5wF4at9z3QNLTSjuB8-JtA/featured?disable_polymer=true)
 
 ### Free Icon:
 
-    1. [Free icon: ](http://www.freepik.com/free-icons)
-    2. [iconfinder: ](https://www.iconfinder.com/)
-    3. [(github)devicon: ](https://github.com/konpa/devicon/tree/master/icons)
+1. [Free icon: ](http://www.freepik.com/free-icons)
+2. [iconfinder: ](https://www.iconfinder.com/)
+3. [(github)devicon: ](https://github.com/konpa/devicon/tree/master/icons)
 
 
 #### 渦輪引擎圖片參考來源：
