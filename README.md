@@ -12,9 +12,9 @@
 
 ### Free Icon:
 
-1. [Free icon: ](http://www.freepik.com/free-icons)
-2. [iconfinder: ](https://www.iconfinder.com/)
-3. [(github)devicon: ](https://github.com/konpa/devicon/tree/master/icons)
+1. [Free icon](http://www.freepik.com/free-icons)
+2. [iconfinder](https://www.iconfinder.com/)
+3. [(github)devicon](https://github.com/konpa/devicon/tree/master/icons)
 
 
 #### 渦輪引擎圖片參考來源：
