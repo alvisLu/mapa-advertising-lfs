@@ -1,0 +1,4 @@
+./xcf/bc-a2-1.xcf filter=lfs diff=lfs merge=lfs -text
+./xcf/bc-a2.xcf filter=lfs diff=lfs merge=lfs -text
+./xcf/BC-box.xcf filter=lfs diff=lfs merge=lfs -text
+./xcf/cfm56-7be-hardeware-changes.xcf filter=lfs diff=lfs merge=lfs -text
