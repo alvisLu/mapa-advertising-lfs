@@ -6,7 +6,7 @@
 * screw-machine: 自動鎖螺絲機影片設計的圖檔。 
 
 
-### Youtube Channl
+### Youtube Channel
 
 * [Alvis/Mapacode](https://www.youtube.com/channel/UC5wF4at9z3QNLTSjuB8-JtA/featured?disable_polymer=true)
 
